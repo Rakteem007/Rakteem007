@@ -1,3 +1,9 @@
+<div >
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw0mhb0WCh0abJSPL4NgXJrT&ust=1705329861687000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLib9PeO3YMDFQAAAAAdAAAAABAu" 
+     alt="animated picture"
+    />
+</div>
+
 # 💫 About Me:
 🔭 I’m currently working on Exciting projects that involve full-stack web development or machine learning. Open to collaborative opportunities where I can apply my skills.<br>👯 I’m looking to collaborate on Job opportunities in the software development field, as I am currently on the lookout for a new role to contribute my expertise.<br>🤝 I’m looking for help with Machine learning algorithms and deep learning prediction systems to enhance my skill set and stay current in the rapidly evolving tech landscape.<br>🌱 I’m currently learning My proficiency in technologies like Java, Python, C++, JavaScript, React, Node, MongoDB, and Selenium. I'm also open to discussions about web development, machine learning, or anything related to my areas of expertise.<br>💬 Ask me about I enjoy playing football and am an avid fan of anime and web series. Living in the vibrant city of Kolkata, West Bengal adds a unique touch to my experiences.<br>⚡ Fun fact I am an anime lover
 
