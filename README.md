@@ -1,5 +1,5 @@
 <div >
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw0mhb0WCh0abJSPL4NgXJrT&ust=1705329861687000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLib9PeO3YMDFQAAAAAdAAAAABAu" 
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" 
      alt="animated picture"
     />
 </div>
