@@ -1,3 +1,8 @@
+<div style={{
+   display: flex;
+  justify-content: space-between;
+  }}>
+
 <div >
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" 
      alt="animated picture"
@@ -31,3 +36,5 @@
 [![](https://visitcount.itsvg.in/api?id=Rakteem007&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+</div>
