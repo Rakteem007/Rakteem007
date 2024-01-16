@@ -1,4 +1,4 @@
-<div align="right">
+<div align="left">
   <img height="179" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/6c0f9b95746151.5e9ecde69599e.gif"  />
 </div>
 
@@ -23,23 +23,23 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="left">hey there 👋</h1>
 
 ###
 
-<h1 align="center">Rakteem Mullick from India 🇮🇳</h1>
-
-###
-
-<br clear="both">
-
-<h2 align="center">👩‍💻  About Me</h2>
+<h1 align="left">Rakteem Mullick from India 🇮🇳</h1>
 
 ###
 
 <br clear="both">
 
-<h3 align="center">- 🔭 I’m working as Software Engineer﹤⁄＞<br>- 📚 I'm currently learning Machine Learning and Deep Learning 🤖<br>- ⚡ In my free time I watch anime ㊗️</h3>
+<h2 align="left">👩‍💻  About Me</h2>
+
+###
+
+<br clear="both">
+
+<h3 align="left">🔭 I’m working as Software Engineer﹤⁄＞<br>📚 I'm currently learning Machine Learning and Deep Learning 🤖<br> ⚡ In my free time I watch anime ㊗️</h3>
 
 ###
 
@@ -146,19 +146,21 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakteem007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakteem007&locale=en&hide_title=false&layout=default%20&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=rakteem007&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rakteem007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakteem007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=rakteem007&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=rakteem007&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakteem007&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/rakteem007/rakteem007/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/rakteem007/count.svg?"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/rakteem007/rakteem007/output/snake.svg" alt="Snake animation" />
 
 ###
